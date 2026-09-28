@@ -3727,7 +3727,7 @@
       <attributes>
         <staff-details print-object="yes" />
       </attributes>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">II pos</words></direction-type></direction><note default-x="98">
+      <note default-x="98">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3739,7 +3739,7 @@
         <accidental>natural</accidental>
         <stem default-y="8">up</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="134">
         <pitch>
           <step>C</step>
@@ -3778,7 +3778,7 @@
     </measure>
     
     <measure number="44" width="126">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">I pos</words></direction-type></direction><note default-x="17">
+      <note default-x="17">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3788,7 +3788,7 @@
         <type>eighth</type>
         <stem default-y="-53">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>4</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="44">
         <pitch>
           <step>D</step>
@@ -4994,7 +4994,7 @@
         </direction-type>
         <sound dynamics="100" />
       </direction>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="15">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -5041,7 +5041,7 @@
     </measure>
     
     <measure number="61" width="281">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="16">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -5052,7 +5052,7 @@
         <dot />
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>4</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="79">
         <pitch>
           <step>F</step>
@@ -5136,7 +5136,7 @@
       <attributes>
         <staff-details print-object="yes" />
       </attributes>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="93">
+      <note default-x="93">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -5145,7 +5145,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-24">down</stem>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="171">
         <rest>
           <display-step>B</display-step>
@@ -5223,7 +5223,7 @@
     </measure>
     
     <measure number="64" width="299">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="15">
         <pitch>
           <step>A</step>
           <octave>5</octave>

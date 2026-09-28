@@ -1172,7 +1172,7 @@
         </direction-type>
         <sound dynamics="56" />
       </direction>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="81">
+      <note default-x="81">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -1181,7 +1181,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="129">
         <pitch>
           <step>D</step>
@@ -1208,7 +1208,7 @@
         <stem default-y="-20">down</stem>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
-      </note>
+      <notations><technical><fingering>2</fingering></technical></notations></note>
       <note default-x="180">
         <pitch>
           <step>B</step>
@@ -1222,7 +1222,7 @@
         <beam number="2">end</beam>
         <notations>
           <slur type="stop" number="1" default-x="6" default-y="24" bezier-x="-12" bezier-y="14" />
-        <technical><fingering>2</fingering></technical></notations>
+        </notations>
       </note>
       <note default-x="203">
         <pitch>
@@ -1581,7 +1581,7 @@
     </measure>
     
     <measure number="10" width="367">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="16">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="16">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1594,7 +1594,7 @@
         <beam number="2">begin</beam>
         <notations>
           <slur type="start" number="1" placement="above" default-x="8" default-y="5" bezier-x="7" bezier-y="2" />
-        <technical><fingering>3</fingering></technical></notations>
+        <technical><fingering>2</fingering></technical></notations>
       </note>
       <note default-x="41">
         <pitch>
@@ -1692,7 +1692,7 @@
         <type>eighth</type>
         <stem default-y="-51">down</stem>
         <beam number="1">end</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="240">
         <pitch>
           <step>B</step>
@@ -1797,7 +1797,7 @@
         <type>eighth</type>
         <stem default-y="-40">down</stem>
         <beam number="1">end</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>4</fingering></technical></notations></note>
       <note default-x="125">
         <rest>
           <display-step>B</display-step>
@@ -2068,7 +2068,7 @@
     </measure>
     
     <measure number="12" width="380">
-      <note default-x="15">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="15">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -2081,7 +2081,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      </note>
+      <notations><technical><fingering>3</fingering></technical></notations></note>
       <note default-x="31">
         <pitch>
           <step>A</step>
@@ -2177,7 +2177,7 @@
         <beam number="2">end</beam>
         <beam number="3">end</beam>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="160">
+      <note default-x="160">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -2189,7 +2189,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="184">
         <pitch>
           <step>B</step>
@@ -2202,7 +2202,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      </note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="207">
         <pitch>
           <step>C</step>
@@ -2254,7 +2254,7 @@
         <stem default-y="-49">down</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
-      <notations><technical><fingering>4</fingering></technical></notations></note>
+      <notations><technical><fingering>3</fingering></technical></notations></note>
       <note default-x="291">
         <pitch>
           <step>B</step>
@@ -3218,7 +3218,7 @@
         </direction-type>
         <sound dynamics="56" />
       </direction>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <note default-x="15">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -3229,7 +3229,7 @@
         <stem default-y="-56">down</stem>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="37">
         <pitch>
           <step>A</step>
@@ -3240,7 +3240,7 @@
         <type>eighth</type>
         <stem default-y="-56">down</stem>
         <beam number="1">continue</beam>
-      </note>
+      <notations><technical><fingering>0</fingering></technical></notations></note>
       <note default-x="65">
         <pitch>
           <step>A</step>
@@ -3393,7 +3393,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="113">
         <pitch>
           <step>A</step>
@@ -3417,7 +3417,7 @@
         <type>eighth</type>
         <stem default-y="-24">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="165">
         <pitch>
           <step>D</step>
@@ -3513,7 +3513,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="182">
         <pitch>
           <step>A</step>
@@ -3537,7 +3537,7 @@
         <type>eighth</type>
         <stem default-y="-24">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="236">
         <pitch>
           <step>D</step>
@@ -3624,7 +3624,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="414">
         <pitch>
           <step>B</step>
@@ -3650,7 +3650,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="460">
         <pitch>
           <step>B</step>
@@ -3664,7 +3664,7 @@
         <beam number="2">end</beam>
         <beam number="3">end</beam>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">III pos</words></direction-type></direction><note default-x="480">
+      <note default-x="480">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -3676,7 +3676,7 @@
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="500">
         <pitch>
           <step>G</step>
@@ -4356,7 +4356,7 @@
     </measure>
     
     <measure number="26" width="258">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <note default-x="15">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -6537,7 +6537,7 @@
     </measure>
     
     <measure number="41" width="591">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="17">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="17">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -6555,7 +6555,7 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" number="1" placement="below" />
-        <technical><fingering>4</fingering></technical></notations>
+        <technical><fingering>3</fingering></technical></notations>
       </note>
       <note default-x="39">
         <pitch>
@@ -7902,7 +7902,7 @@
       <attributes>
         <staff-details print-object="yes" />
       </attributes>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">II pos</words></direction-type></direction><note default-x="82">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="82">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -7996,7 +7996,7 @@
         <beam number="2">end</beam>
         <beam number="3">end</beam>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="217">
+      <note default-x="217">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -8008,7 +8008,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <direction placement="above"><direction-type><words font-style="italic" font-size="9">I pos</words></direction-type></direction><note default-x="236">
         <pitch>
           <step>G</step>
@@ -8378,7 +8378,7 @@
         <stem default-y="-49">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="70">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="70">
         <chord />
         <pitch>
           <step>A</step>
@@ -8389,7 +8389,7 @@
         <type>eighth</type>
         <stem default-y="-49">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>4</fingering></technical></notations></note>
       <note default-x="95">
         <pitch>
           <step>C</step>
@@ -11052,7 +11052,7 @@
     </measure>
     
     <measure number="65" width="664">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="18">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="18">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -11070,7 +11070,7 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" number="1" placement="below" />
-        <technical><fingering>4</fingering></technical></notations>
+        <technical><fingering>3</fingering></technical></notations>
       </note>
       <note default-x="42">
         <pitch>
@@ -14447,7 +14447,7 @@
     </measure>
     
     <measure number="81" width="396">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">III pos</words></direction-type></direction><note default-x="15">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -14526,7 +14526,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
       <notations><technical><fingering>2</fingering></technical></notations></note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">I pos</words></direction-type></direction><note default-x="169">
+      <note default-x="169">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -14539,7 +14539,7 @@
         <stem default-y="-53">down</stem>
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="193">
         <pitch>
           <step>D</step>
@@ -14654,7 +14654,7 @@
     </measure>
     
     <measure number="82" width="340">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">II pos</words></direction-type></direction><note default-x="15">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">I pos</words></direction-type></direction><note default-x="15">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -14665,7 +14665,7 @@
         <type>eighth</type>
         <stem default-y="-63">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>2</fingering></technical></notations></note>
       <note default-x="47">
         <pitch>
           <step>F</step>
@@ -14724,7 +14724,7 @@
         <stem default-y="-59">down</stem>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>2</fingering></technical></notations></note>
       <note default-x="156">
         <pitch>
           <step>G</step>
@@ -14749,7 +14749,7 @@
         <stem default-y="-56">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="212">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="212">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -14760,7 +14760,7 @@
         <stem default-y="-56">down</stem>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>4</fingering></technical></notations></note>
       <note default-x="236">
         <pitch>
           <step>A</step>
@@ -14795,7 +14795,7 @@
         <stem default-y="-51">down</stem>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="318">
         <pitch>
           <step>B</step>
@@ -14823,7 +14823,7 @@
       <attributes>
         <staff-details print-object="yes" />
       </attributes>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="81">
+      <note default-x="81">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -14836,7 +14836,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>3</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="98">
         <pitch>
           <step>D</step>
@@ -16357,7 +16357,7 @@
         <type>quarter</type>
         <stem default-y="-49">down</stem>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <note default-x="15">
         <chord />
         <pitch>
           <step>A</step>
@@ -16367,7 +16367,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-49">down</stem>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="50">
         <pitch>
           <step>B</step>
@@ -19607,7 +19607,7 @@
           <tuplet type="stop" number="1" />
         <technical><fingering>0</fingering></technical></notations>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="408">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="408">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -19616,7 +19616,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem default-y="-25">down</stem>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>4</fingering></technical></notations></note>
       <backup>
         <duration>192</duration>
       </backup>
@@ -23943,7 +23943,7 @@
     </measure>
     
     <measure number="132" width="227">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <note default-x="15">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -23957,7 +23957,7 @@
         <beam number="2">forward hook</beam>
         <notations>
           <tied type="stop" />
-        <technical><fingering>1</fingering></technical></notations>
+        </notations>
       </note>
       <note default-x="35">
         <pitch>
@@ -23969,7 +23969,7 @@
         <type>eighth</type>
         <stem default-y="-56">down</stem>
         <beam number="1">continue</beam>
-      </note>
+      <notations><technical><fingering>0</fingering></technical></notations></note>
       <note default-x="54">
         <pitch>
           <step>A</step>
@@ -24134,7 +24134,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="226">
         <pitch>
           <step>A</step>
@@ -24158,7 +24158,7 @@
         <type>eighth</type>
         <stem default-y="-24">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="305">
         <pitch>
           <step>D</step>
@@ -24201,7 +24201,7 @@
     </measure>
     
     <measure number="134" width="585">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="16">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -24211,7 +24211,7 @@
         <type>eighth</type>
         <stem default-y="-30">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="64">
         <pitch>
           <step>D</step>
@@ -24224,7 +24224,7 @@
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      </note>
+      <notations><technical><fingering>3</fingering></technical></notations></note>
       <note default-x="97">
         <pitch>
           <step>C</step>
@@ -25602,7 +25602,7 @@
     </measure>
     
     <measure number="144" width="209">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="15">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -25612,7 +25612,7 @@
         <type>eighth</type>
         <dot />
         <stem default-y="-54">down</stem>
-      <notations><technical><fingering>3</fingering></technical></notations></note>
+      <notations><technical><fingering>2</fingering></technical></notations></note>
       <note default-x="94">
         <pitch>
           <step>B</step>
@@ -25651,7 +25651,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem default-y="-24">down</stem>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>4</fingering></technical></notations></note>
     </measure>
     
     <measure number="145" width="367">
@@ -25667,7 +25667,7 @@
       <attributes>
         <staff-details print-object="yes" />
       </attributes>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="81">
+      <note default-x="81">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -25680,7 +25680,7 @@
         <beam number="2">begin</beam>
         <notations>
           <slur type="start" number="1" placement="above" default-x="9" default-y="19" bezier-x="5" bezier-y="7" />
-        <technical><fingering>4</fingering></technical></notations>
+        </notations>
       </note>
       <note default-x="100">
         <pitch>
@@ -31914,7 +31914,7 @@
     </measure>
     
     <measure number="179" width="98">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="32">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="32">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -31928,7 +31928,7 @@
           <ornaments>
             <trill-mark placement="above" />
           </ornaments>
-        <technical><fingering>3</fingering></technical></notations>
+        <technical><fingering>2</fingering></technical></notations>
       </note>
       <note default-x="60">
         <pitch>
@@ -31952,7 +31952,7 @@
     </measure>
     
     <measure number="180" width="228">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="16">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -31961,7 +31961,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem default-y="-21">down</stem>
-      <notations><technical><fingering>3</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="43">
         <pitch>
           <step>G</step>
@@ -31991,7 +31991,7 @@
           <articulations>
             <staccato placement="above" default-y="40" />
           </articulations>
-        </notations>
+        <technical><fingering>1</fingering></technical></notations>
       </note>
       <note default-x="74">
         <pitch>
@@ -32056,7 +32056,7 @@
         <voice>1</voice>
         <type>half</type>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="37">
+      <note default-x="37">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -32070,7 +32070,7 @@
           <articulations>
             <staccato placement="above" default-y="28" />
           </articulations>
-        <technical><fingering>2</fingering></technical></notations>
+        <technical><fingering>1</fingering></technical></notations>
       </note>
       <note default-x="62">
         <pitch>
@@ -32094,7 +32094,7 @@
     </measure>
     
     <measure number="182" width="256">
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="16">
+      <note default-x="16">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -32131,7 +32131,7 @@
         <stem default-y="-30">down</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
-      </note>
+      <notations><technical><fingering>0</fingering></technical></notations></note>
       <note default-x="80">
         <pitch>
           <step>B</step>
@@ -32143,7 +32143,7 @@
         <stem default-y="-30">down</stem>
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="96">
         <pitch>
           <step>G</step>
@@ -32204,7 +32204,7 @@
         </direction-type>
         <sound dynamics="100" />
       </direction>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="81">
+      <note default-x="81">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -32214,7 +32214,7 @@
         <type>eighth</type>
         <stem default-y="-41">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>4</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="111">
         <pitch>
           <step>D</step>
@@ -32227,7 +32227,7 @@
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      </note>
+      <notations><technical><fingering>3</fingering></technical></notations></note>
       <note default-x="134">
         <pitch>
           <step>C</step>
@@ -32254,7 +32254,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="181">
         <pitch>
           <step>A</step>
@@ -32278,7 +32278,7 @@
         <type>eighth</type>
         <stem default-y="-24">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="234">
         <pitch>
           <step>D</step>
@@ -32362,7 +32362,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="115">
         <pitch>
           <step>A</step>
@@ -32386,7 +32386,7 @@
         <type>eighth</type>
         <stem default-y="-24">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="169">
         <pitch>
           <step>D</step>
@@ -32473,7 +32473,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="346">
         <pitch>
           <step>B</step>
@@ -32499,7 +32499,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="392">
         <pitch>
           <step>B</step>
@@ -32513,7 +32513,7 @@
         <beam number="2">end</beam>
         <beam number="3">end</beam>
       </note>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">III pos</words></direction-type></direction><note default-x="413">
+      <note default-x="413">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -32525,7 +32525,7 @@
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations /></note>
       <note default-x="432">
         <pitch>
           <step>G</step>
@@ -32819,7 +32819,7 @@
         </direction-type>
         <sound dynamics="100" />
       </direction>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">IV pos</words></direction-type></direction><note default-x="15">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">V pos</words></direction-type></direction><note default-x="15">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -32894,7 +32894,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="230">
         <pitch>
           <step>B</step>
@@ -32920,7 +32920,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <beam number="3">continue</beam>
-      <notations><technical><fingering>2</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering></technical></notations></note>
       <note default-x="296">
         <pitch>
           <step>B</step>
@@ -33007,7 +33007,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-46">down</stem>
-      <notations><technical><fingering>3</fingering></technical></notations></note>
+      <notations><technical><fingering>2</fingering></technical></notations></note>
       <backup>
         <duration>24</duration>
       </backup>
