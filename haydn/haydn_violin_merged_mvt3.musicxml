@@ -24,7 +24,7 @@
     <scaling>
       <millimeters>6.7733</millimeters>
       <tenths>40</tenths>
-    </scaling>
+    <millimeters>6.6</millimeters><tenths>40</tenths></scaling>
     <page-layout>
       <page-height>1914</page-height>
       <page-width>1402</page-width>
@@ -37,10 +37,10 @@
     </page-layout>
     <lyric-font font-family="Sans Serif" font-size="10" />
   </defaults>
-  <part-list>
+  <credit page="1"><credit-type>title</credit-type><credit-words default-x="595" default-y="1650" font-size="22" halign="center" justify="center">Haydn Cello Concerto No.2 — III. Rondo. Allegro</credit-words></credit><credit page="1"><credit-type>subtitle</credit-type><credit-words default-x="595" default-y="1570" font-size="12" halign="center" justify="center">Violin — solo line merged with orchestral Violin I melody</credit-words></credit><credit page="1"><credit-type>composer</credit-type><credit-words default-x="1150" default-y="1650" font-size="12" halign="right" justify="right">J. Haydn</credit-words></credit><part-list>
     <score-part id="P1">
-      <part-name>Violin (cello solo + orch. melody merged)</part-name>
-      <part-abbreviation>Voice</part-abbreviation>
+      <part-name>Violin</part-name>
+      <part-abbreviation />
       <score-instrument id="P1-I1">
         <instrument-name>Voice Oohs</instrument-name>
       </score-instrument>
@@ -4692,7 +4692,7 @@
       </note>
     </measure>
     
-    <measure number="59"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="60" width="153">
+    <measure number="59"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="60" width="153">
       <note default-x="16">
         <rest>
           <display-step>D</display-step>
@@ -5144,7 +5144,7 @@
         </attributes>
     </measure>
     
-    <measure number="66"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="67" width="121">
+    <measure number="66"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="67" width="121">
       <note default-x="15">
         <rest>
           <display-step>B</display-step>
@@ -9116,7 +9116,7 @@
       </note>
     </measure>
     
-    <measure number="119"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="120"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="121"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="122" width="188">
+    <measure number="119"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="120"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="121"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="122" width="188">
       <note default-x="16">
         <rest>
           <display-step>B</display-step>
@@ -10188,7 +10188,7 @@
       </note>
     </measure>
     
-    <measure number="131"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="132"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="133"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="134" width="129">
+    <measure number="131"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="132"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="133"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="134" width="129">
       <note default-x="15">
         <rest>
           <display-step>B</display-step>
@@ -12605,7 +12605,7 @@
       </note>
     </measure>
     
-    <measure number="160"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="161"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="162" width="190">
+    <measure number="160"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="161"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="162" width="190">
       <note default-x="18">
         <pitch>
           <step>G</step>
@@ -16189,7 +16189,7 @@
       </note>
     </measure>
     
-    <measure number="197"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="198"><note><rest /><duration>36</duration><type>whole</type></note></measure><measure number="199" width="258">
+    <measure number="197"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="198"><note><rest measure="yes" /><duration>36</duration><type>whole</type></note></measure><measure number="199" width="258">
       <note default-x="18">
         <pitch>
           <step>G</step>

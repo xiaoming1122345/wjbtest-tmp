@@ -26,7 +26,7 @@
     <scaling>
       <millimeters>10.1600</millimeters>
       <tenths>40</tenths>
-    </scaling>
+    <millimeters>6.6</millimeters><tenths>40</tenths></scaling>
     <page-layout>
       <page-height>1329</page-height>
       <page-width>988</page-width>
@@ -39,10 +39,10 @@
     </page-layout>
     <lyric-font font-family="Sans Serif" font-size="10" />
   </defaults>
-  <part-list>
+  <credit page="1"><credit-type>title</credit-type><credit-words default-x="595" default-y="1650" font-size="22" halign="center" justify="center">Haydn Cello Concerto No.2 in D major, Hob.VIIb:2 — I. Allegro moderato</credit-words></credit><credit page="1"><credit-type>subtitle</credit-type><credit-words default-x="595" default-y="1570" font-size="12" halign="center" justify="center">Violin — solo line merged with orchestral Violin I melody</credit-words></credit><credit page="1"><credit-type>composer</credit-type><credit-words default-x="1150" default-y="1650" font-size="12" halign="right" justify="right">J. Haydn</credit-words></credit><part-list>
     <score-part id="P1">
-      <part-name>Violin (cello solo + orch. melody merged)</part-name>
-      <part-abbreviation>Voice</part-abbreviation>
+      <part-name>Violin</part-name>
+      <part-abbreviation />
       <score-instrument id="P1-I1">
         <instrument-name>Voice Oohs</instrument-name>
       </score-instrument>
@@ -4782,7 +4782,7 @@
       </note>
     </measure>
     
-    <measure number="31"><note><rest /><duration>192</duration><type>whole</type></note></measure><measure number="32"><note><rest /><duration>192</duration><type>whole</type></note></measure><measure number="33" width="381">
+    <measure number="31"><note><rest measure="yes" /><duration>192</duration><type>whole</type></note></measure><measure number="32"><note><rest measure="yes" /><duration>192</duration><type>whole</type></note></measure><measure number="33" width="381">
       <note default-x="18">
         <pitch>
           <step>A</step>
@@ -12669,7 +12669,7 @@
       </note>
     </measure>
     
-    <measure number="71"><note><rest /><duration>192</duration><type>whole</type></note></measure><measure number="72" width="222">
+    <measure number="71"><note><rest measure="yes" /><duration>192</duration><type>whole</type></note></measure><measure number="72" width="222">
       <note default-x="17">
         <pitch>
           <step>F</step>
@@ -16782,7 +16782,7 @@
       </note>
     </measure>
     
-    <measure number="94"><note><rest /><duration>192</duration><type>whole</type></note></measure><measure number="95" width="328">
+    <measure number="94"><note><rest measure="yes" /><duration>192</duration><type>whole</type></note></measure><measure number="95" width="328">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -24923,7 +24923,7 @@
       </note>
     </measure>
     
-    <measure number="139"><note><rest /><duration>192</duration><type>whole</type></note></measure><measure number="140" width="919">
+    <measure number="139"><note><rest measure="yes" /><duration>192</duration><type>whole</type></note></measure><measure number="140" width="919">
       <print new-system="yes">
         <system-layout>
           <system-margins>

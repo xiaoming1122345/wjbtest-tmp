@@ -21,7 +21,7 @@
     <scaling>
       <millimeters>6.7733</millimeters>
       <tenths>40</tenths>
-    </scaling>
+    <millimeters>6.6</millimeters><tenths>40</tenths></scaling>
     <page-layout>
       <page-height>1914</page-height>
       <page-width>1402</page-width>
@@ -34,10 +34,10 @@
     </page-layout>
     <lyric-font font-family="Sans Serif" font-size="10" />
   </defaults>
-  <part-list>
+  <credit page="1"><credit-type>title</credit-type><credit-words default-x="595" default-y="1650" font-size="22" halign="center" justify="center">Haydn Cello Concerto No.2 — II. Adagio (A major)</credit-words></credit><credit page="1"><credit-type>subtitle</credit-type><credit-words default-x="595" default-y="1570" font-size="12" halign="center" justify="center">Violin — solo line merged with orchestral Violin I melody</credit-words></credit><credit page="1"><credit-type>composer</credit-type><credit-words default-x="1150" default-y="1650" font-size="12" halign="right" justify="right">J. Haydn</credit-words></credit><part-list>
     <score-part id="P1">
-      <part-name>Violin (cello solo + orch. melody merged)</part-name>
-      <part-abbreviation>Voice</part-abbreviation>
+      <part-name>Violin</part-name>
+      <part-abbreviation />
       <score-instrument id="P1-I1">
         <instrument-name>Voice Oohs</instrument-name>
       </score-instrument>
