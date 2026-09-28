@@ -73,7 +73,7 @@
         </time>
         <staff-details print-object="yes" />
       <clef><sign>G</sign><line>2</line></clef></attributes>
-      <direction placement="above"><direction-type><words font-style="italic" font-size="9">I pos</words></direction-type></direction><note default-x="117">
+      <direction placement="above"><direction-type><words font-style="italic" font-size="9">I pos</words></direction-type></direction><direction placement="above"><direction-type><words font-weight="bold" font-size="13">Adagio</words></direction-type><sound tempo="90" /></direction><note default-x="117">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -86,7 +86,7 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1" placement="above" default-x="8" default-y="30" bezier-x="11" bezier-y="7" />
-        <technical><fingering>4</fingering></technical></notations>
+        <technical><fingering>4</fingering><down-bow /></technical></notations>
       </note>
       <note default-x="152">
         <pitch>
@@ -598,7 +598,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-15">up</stem>
-      </note>
+      <notations><technical><down-bow /></technical></notations></note>
       <note default-x="51">
         <rest>
           <display-step>B</display-step>
@@ -1361,7 +1361,7 @@
         <beam number="3">begin</beam>
         <notations>
           <slur type="start" number="1" placement="above" default-x="9" default-y="25" bezier-x="40" bezier-y="23" />
-        </notations>
+        <technical><down-bow /></technical></notations>
       </note>
       <note default-x="45">
         <pitch>
@@ -1542,7 +1542,7 @@
         <stem default-y="3">up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
-      </note>
+      <notations><technical><up-bow /></technical></notations></note>
       <note default-x="56">
         <pitch>
           <step>G</step>
@@ -1737,7 +1737,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
-      </note>
+      <notations><technical><down-bow /></technical></notations></note>
       <note default-x="127">
         <pitch>
           <step>B</step>
@@ -3445,7 +3445,7 @@
         <dot />
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
-      </note>
+      <notations><technical><down-bow /></technical></notations></note>
       <note default-x="17">
         <chord />
         <pitch>
@@ -3739,7 +3739,7 @@
         <accidental>natural</accidental>
         <stem default-y="8">up</stem>
         <beam number="1">begin</beam>
-      <notations /></note>
+      <notations><technical><down-bow /></technical></notations></note>
       <note default-x="134">
         <pitch>
           <step>C</step>
@@ -4318,7 +4318,7 @@
         <stem default-y="-49">down</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
-      </note>
+      <notations><technical><up-bow /></technical></notations></note>
       <note default-x="58">
         <pitch>
           <step>C</step>
@@ -4405,7 +4405,7 @@
         <type>quarter</type>
         <accidental>natural</accidental>
         <stem default-y="-10">up</stem>
-      </note>
+      <notations><technical><down-bow /></technical></notations></note>
       <note default-x="51">
         <pitch>
           <step>D</step>
@@ -4432,7 +4432,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-40">down</stem>
-      </note>
+      <notations><technical><down-bow /></technical></notations></note>
       <note default-x="88">
         <rest>
           <display-step>B</display-step>
@@ -4461,7 +4461,7 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="2" placement="above" default-x="8" default-y="30" bezier-x="12" bezier-y="7" />
-        </notations>
+        <technical><down-bow /></technical></notations>
       </note>
       <note default-x="52">
         <pitch>
@@ -4627,7 +4627,7 @@
         <stem default-y="-15">up</stem>
         <notations>
           <slur type="start" number="1" placement="below" default-x="6" default-y="-58" bezier-x="7" bezier-y="-11" />
-        </notations>
+        <technical><down-bow /></technical></notations>
       </note>
       <note default-x="53">
         <pitch>
@@ -4785,7 +4785,7 @@
         <type>quarter</type>
         <dot />
         <stem default-y="-20">down</stem>
-      </note>
+      <notations><technical><down-bow /></technical></notations></note>
       <note default-x="69">
         <pitch>
           <step>D</step>
@@ -5005,7 +5005,7 @@
         <dot />
         <stem default-y="-30">down</stem>
         <beam number="1">begin</beam>
-      <notations><technical><fingering>1</fingering></technical></notations></note>
+      <notations><technical><fingering>1</fingering><down-bow /></technical></notations></note>
       <note default-x="80">
         <pitch>
           <step>E</step>
